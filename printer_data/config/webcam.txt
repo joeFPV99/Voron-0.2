@@ -1,0 +1,2 @@
+camera="usb"
+camera_usb_options="-r 640x480 -f 10 -d /dev/video0" camera_http_options="-n -p 8080"
